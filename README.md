@@ -2,9 +2,11 @@
 
 Following the [Section tutorial by Moses Maina](https://www.section.io/engineering-education/build-and-dockerize-a-full-stack-react-app-with-nodejs-and-nginx/).
 
+The project builds get, add, update, and delete APIs in Node.
+
 ## To Run
 In the project root, run the following command to build the docker container and run the project:
-`docker-compose up --build`
+- `docker-compose up --build`
 
 ### Admin Login
 To access the MySQL DB for this project, the admin credentials are:
